@@ -1,0 +1,16 @@
+D:\source\repos\MaTran\MaTran\bin\Debug\net5.0\MaTran.exe
+D:\source\repos\MaTran\MaTran\bin\Debug\net5.0\MaTran.deps.json
+D:\source\repos\MaTran\MaTran\bin\Debug\net5.0\MaTran.runtimeconfig.json
+D:\source\repos\MaTran\MaTran\bin\Debug\net5.0\MaTran.runtimeconfig.dev.json
+D:\source\repos\MaTran\MaTran\bin\Debug\net5.0\MaTran.dll
+D:\source\repos\MaTran\MaTran\bin\Debug\net5.0\ref\MaTran.dll
+D:\source\repos\MaTran\MaTran\bin\Debug\net5.0\MaTran.pdb
+D:\source\repos\MaTran\MaTran\obj\Debug\net5.0\MaTran.csprojAssemblyReference.cache
+D:\source\repos\MaTran\MaTran\obj\Debug\net5.0\MaTran.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\repos\MaTran\MaTran\obj\Debug\net5.0\MaTran.AssemblyInfoInputs.cache
+D:\source\repos\MaTran\MaTran\obj\Debug\net5.0\MaTran.AssemblyInfo.cs
+D:\source\repos\MaTran\MaTran\obj\Debug\net5.0\MaTran.csproj.CoreCompileInputs.cache
+D:\source\repos\MaTran\MaTran\obj\Debug\net5.0\MaTran.dll
+D:\source\repos\MaTran\MaTran\obj\Debug\net5.0\ref\MaTran.dll
+D:\source\repos\MaTran\MaTran\obj\Debug\net5.0\MaTran.pdb
+D:\source\repos\MaTran\MaTran\obj\Debug\net5.0\MaTran.genruntimeconfig.cache
