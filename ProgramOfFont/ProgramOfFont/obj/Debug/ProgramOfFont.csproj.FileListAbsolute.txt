@@ -1,0 +1,10 @@
+D:\source\repos\ProgramOfFont\ProgramOfFont\bin\Debug\ProgramOfFont.exe.config
+D:\source\repos\ProgramOfFont\ProgramOfFont\bin\Debug\ProgramOfFont.exe
+D:\source\repos\ProgramOfFont\ProgramOfFont\bin\Debug\ProgramOfFont.pdb
+D:\source\repos\ProgramOfFont\ProgramOfFont\obj\Debug\ProgramOfFont.csproj.AssemblyReference.cache
+D:\source\repos\ProgramOfFont\ProgramOfFont\obj\Debug\ProgramOfFont.Form1.resources
+D:\source\repos\ProgramOfFont\ProgramOfFont\obj\Debug\ProgramOfFont.Properties.Resources.resources
+D:\source\repos\ProgramOfFont\ProgramOfFont\obj\Debug\ProgramOfFont.csproj.GenerateResource.cache
+D:\source\repos\ProgramOfFont\ProgramOfFont\obj\Debug\ProgramOfFont.csproj.CoreCompileInputs.cache
+D:\source\repos\ProgramOfFont\ProgramOfFont\obj\Debug\ProgramOfFont.exe
+D:\source\repos\ProgramOfFont\ProgramOfFont\obj\Debug\ProgramOfFont.pdb
